@@ -61,7 +61,6 @@
   display: flex;
   flex: 1 1 0%;
   justify-content: flex-end;
-  margin: 0 -16px;
 }
 
 .mobile-menu {
@@ -186,6 +185,7 @@
   h2 {
     text-align: center;
     margin-top: 40px;
+    padding-top: 15px;
   }
 
   .contact {
@@ -243,6 +243,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 4.5rem;
   }
 
   .CardOne img {
@@ -384,6 +385,7 @@
   h2 {
     text-align: center;
     margin-top: 40px;
+    padding-top: 15px;
   }
 
   .contact {
@@ -445,6 +447,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 4.5rem;
   }
 
   .CardOne img {
@@ -581,6 +584,7 @@
   h2 {
     text-align: center;
     margin-top: 40px;
+    padding-top: 15px;
   }
 
   .contact {
@@ -642,6 +646,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 4.5rem;
   }
 
   .CardOne img {
@@ -780,8 +785,8 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    padding-left: 10%;
     justify-items: center;
+    padding: 0 5%;
   }
 
   .ExperienceCardJob p{
@@ -799,6 +804,7 @@
   h2 {
     text-align: center;
     margin-top: 40px;
+    padding-top: 15px;
   }
 
   .contact {
@@ -861,6 +867,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 4.5rem;
   }
 
   .CardOne img {
@@ -883,7 +890,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin: 20px;
+    padding: 1rem;
   }
 
   .ExperienceCardJob img {
