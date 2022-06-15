@@ -665,6 +665,12 @@
     padding-top: 5px;
   }
 
+  .experience{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
   .experienceCards{
     display: inline-flex;
   }
@@ -781,13 +787,17 @@
     margin-top: 10px;
   }
 
+  .experience{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
   .experienceCards{
     display: inline-flex;
     justify-content: center;
     align-items: center;
     justify-items: center;
-    margin-left: 15%;
-    margin-right: 15%;
   }
 
   .ExperienceCardJob p{
